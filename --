@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>童瑞杰做的第一个网站</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+   <div style="
+   background-color:#f1f1f1;
+   padding:60px;
+   text-align:center">
+   <P>技术原因网站图片暂未确定</P>
+   </div>  
+   <div style="
+     max-width:700xp;
+     margin: 30px auto;
+     padding:15px;
+     line-height: 2.7;
+   ">
+   <p> 加油建设中</p> 
+   <p>敬请期待</p>     
+     </div>   
+   <div style="
+   background-color:#f1f1f1;
+   text-align:center;
+   padding:60px"
+   font-size:18px
+   >
+   <p>杰瑞的网站</p>
+   <a href="网站正在建设中，敬请期待">网站正在建设中，敬请期待</a>
+   </div>  
+  </body>
+</html>
